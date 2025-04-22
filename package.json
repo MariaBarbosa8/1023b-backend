@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tsx": "^4.19.3"
+  },
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "express": "^4.21.2",
+    "mysql2": "^3.14.0"
+  }
+}
